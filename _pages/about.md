@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Introduction
-======
+
 I am a third-year graduate student at Huazhong Agricultural University. My research interests encompass computer vision, 3D point clouds, 3D plant phenotypes, and the application of point clouds in agriculture. I am fortunate to be guided by Professor Ruifang Zhai.  
  
 
